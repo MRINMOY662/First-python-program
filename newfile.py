@@ -34,3 +34,10 @@ print(y)
 
 print   
 #------------------------------------
+print('Python..')
+
+print('hello world!') #first program of python
+
+name='Juan' '''Changing variable value'''
+name='Nord'
+print('Hello'+ ' '+name)
